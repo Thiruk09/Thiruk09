@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiruk09
-- 👀 I’m interested in developimg
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning B.Sc computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
